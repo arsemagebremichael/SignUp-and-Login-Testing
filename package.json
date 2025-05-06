@@ -1,0 +1,23 @@
+{
+  "name": "signup-and-login-testing",
+  "version": "1.0.0",
+  "description": "This is a repository for testing login and signup pages.",
+  "main": "login.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arsemagebremichael/SignUp-and-Login-Testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arsemagebremichael/SignUp-and-Login-Testing/issues"
+  },
+  "homepage": "https://github.com/arsemagebremichael/SignUp-and-Login-Testing#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
